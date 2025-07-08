@@ -6,14 +6,8 @@
       "location": "Bengaluru",
       "price": 10000,
       "rating": 4.6,
-      "styles": [
-        "Outdoor",
-        "Studio"
-      ],
-      "tags": [
-        "Candid",
-        "Maternity"
-      ],
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
       "bio": "Award-winning studio specializing in maternity and newborn shoots.",
       "profilePic": "/images/profile1.jpg",
       "portfolio": [
@@ -22,7 +16,7 @@
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
@@ -39,23 +33,17 @@
       "location": "Delhi",
       "price": 15000,
       "rating": 4.2,
-      "styles": [
-        "Candid",
-        "Indoor"
-      ],
-      "tags": [
-        "Newborn",
-        "Birthday"
-      ],
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
       "bio": "Delhi-based candid specialist for kids and birthday parties.",
       "profilePic": "/images/profile2.jpg",
       "portfolio": [
-    "https://placehold.co/600x400?text=portfolio\nimage1",
+        "https://placehold.co/600x400?text=portfolio\nimage1",
         "https://placehold.co/600x400?text=portfolio\nimage2",
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
@@ -72,24 +60,17 @@
       "location": "Bengaluru",
       "price": 8000,
       "rating": 4.8,
-      "styles": [
-        "Studio",
-        "Outdoor",
-        "Traditional"
-      ],
-      "tags": [
-        "Wedding",
-        "Pre-wedding"
-      ],
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
       "bio": "Capturing timeless wedding stories across India.",
       "profilePic": "/images/profile3.jpg",
       "portfolio": [
-      "https://placehold.co/600x400?text=portfolio\nimage1",
+        "https://placehold.co/600x400?text=portfolio\nimage1",
         "https://placehold.co/600x400?text=portfolio\nimage2",
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
@@ -106,23 +87,17 @@
       "location": "Bengaluru",
       "price": 12000,
       "rating": 4.3,
-      "styles": [
-        "Outdoor",
-        "Candid"
-      ],
-      "tags": [
-        "Maternity",
-        "Couple"
-      ],
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
       "bio": "Natural light specialist focusing on emotional storytelling.",
       "profilePic": "/images/profile1.jpg",
       "portfolio": [
-    "https://placehold.co/600x400?text=portfolio\nimage1",
+        "https://placehold.co/600x400?text=portfolio\nimage1",
         "https://placehold.co/600x400?text=portfolio\nimage2",
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
@@ -139,22 +114,17 @@
       "location": "Delhi",
       "price": 7000,
       "rating": 3.9,
-      "styles": [
-        "Studio"
-      ],
-      "tags": [
-        "Birthday",
-        "Family"
-      ],
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
       "bio": "Affordable indoor shoots with creative themes.",
       "profilePic": "/images/profile5.jpg",
       "portfolio": [
-   "https://placehold.co/600x400?text=portfolio\nimage1",
+        "https://placehold.co/600x400?text=portfolio\nimage1",
         "https://placehold.co/600x400?text=portfolio\nimage2",
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
@@ -171,23 +141,17 @@
       "location": "Bengaluru",
       "price": 11000,
       "rating": 4.5,
-      "styles": [
-        "Traditional",
-        "Candid"
-      ],
-      "tags": [
-        "Wedding",
-        "Engagement"
-      ],
+      "styles": ["Traditional", "Candid"],
+      "tags": ["Wedding", "Engagement"],
       "bio": "Bringing vibrant South Indian weddings to life through the lens.",
       "profilePic": "/images/profile3.jpg",
       "portfolio": [
-      "https://placehold.co/600x400?text=portfolio\nimage1",
+        "https://placehold.co/600x400?text=portfolio\nimage1",
         "https://placehold.co/600x400?text=portfolio\nimage2",
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
@@ -204,23 +168,17 @@
       "location": "Pune",
       "price": 9500,
       "rating": 4.7,
-      "styles": [
-        "Indoor",
-        "Candid"
-      ],
-      "tags": [
-        "Newborn",
-        "Maternity"
-      ],
+      "styles": ["Indoor", "Candid"],
+      "tags": ["Newborn", "Maternity"],
       "bio": "Soft and serene newborn captures with creative setups.",
       "profilePic": "/images/profile1.jpg",
       "portfolio": [
-     "https://placehold.co/600x400?text=portfolio\nimage1",
+        "https://placehold.co/600x400?text=portfolio\nimage1",
         "https://placehold.co/600x400?text=portfolio\nimage2",
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
@@ -237,23 +195,17 @@
       "location": "Ahmedabad",
       "price": 13000,
       "rating": 4.4,
-      "styles": [
-        "Outdoor",
-        "Studio"
-      ],
-      "tags": [
-        "Fashion",
-        "Portfolio"
-      ],
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Fashion", "Portfolio"],
       "bio": "Modern fashion portfolios and editorial-style shoots.",
       "profilePic": "/images/profile2.jpg",
       "portfolio": [
-   "https://placehold.co/600x400?text=portfolio\nimage1",
+        "https://placehold.co/600x400?text=portfolio\nimage1",
         "https://placehold.co/600x400?text=portfolio\nimage2",
         "https://placehold.co/600x400?text=portfolio\nimage3",
         "https://placehold.co/600x400?text=portfolio\nimage4",
         "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6",
+        "https://placehold.co/600x400?text=portfolio\nimage6"
       ],
       "reviews": [
         {
