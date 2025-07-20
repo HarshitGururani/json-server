@@ -1,456 +1,393 @@
 {
   "metrics": {
-    "totalPatients": 3500,
-    "appointmentsToday": 126,
-    "bedsOccupied": 285,
-    "doctorsOnDuty": 48
+    "totalPatients": 1245,
+    "appointmentsToday": 47,
+    "bedsOccupied": 198,
+    "doctorsOnDuty": 18
   },
- "patients": [
+  "appointments": [
     {
-      "patientName": "Sophia Clark",
-      "id": 12345,
-      "gender": "Female",
-      "age": 35,
-      "contact": "555-123-4567",
-      "appointmentStatus": "Scheduled",
-      "roomNumber": "101A"
+      "patientName": "Siddharth",
+      "appointmentTime": "02:18 AM",
+      "doctorName": "Dr. Sharma",
+      "department": "Neurology",
+      "status": "Cancelled"
     },
     {
-      "patientName": "Ethan Miller",
-      "id": 67890,
-      "gender": "Male",
-      "age": 42,
-      "contact": "555-987-6543",
-      "appointmentStatus": "Completed",
-      "roomNumber": "205B"
+      "patientName": "Vivaan",
+      "appointmentTime": "02:42 AM",
+      "doctorName": "Dr. Sharma",
+      "department": "Cardiology",
+      "status": "Pending"
     },
     {
-      "patientName": "Olivia Davis",
-      "id": 24680,
-      "gender": "Female",
-      "age": 28,
-      "contact": "555-111-2222",
-      "appointmentStatus": "Cancelled",
-      "roomNumber": "N/A"
+      "patientName": "Nikita",
+      "appointmentTime": "06:42 AM",
+      "doctorName": "Dr. Singh",
+      "department": "Orthopedics",
+      "status": "Confirmed"
     },
     {
-      "patientName": "Liam Wilson",
-      "id": 13579,
-      "gender": "Male",
-      "age": 50,
-      "contact": "555-333-4444",
-      "appointmentStatus": "Scheduled",
-      "roomNumber": "302C"
+      "patientName": "Aarav",
+      "appointmentTime": "01:02 AM",
+      "doctorName": "Dr. Iyer",
+      "department": "Orthopedics",
+      "status": "Pending"
     },
     {
-      "patientName": "Ava Martinez",
-      "id": 97531,
-      "gender": "Female",
-      "age": 62,
-      "contact": "555-555-6666",
-      "appointmentStatus": "Completed",
-      "roomNumber": "150A"
+      "patientName": "Aditya",
+      "appointmentTime": "03:29 AM",
+      "doctorName": "Dr. Desai",
+      "department": "Pediatrics",
+      "status": "Cancelled"
     },
     {
-      "patientName": "Noah Anderson",
-      "id": 86420,
-      "gender": "Male",
-      "age": 19,
-      "contact": "555-777-8888",
-      "appointmentStatus": "Scheduled",
-      "roomNumber": "220B"
+      "patientName": "Siddharth",
+      "appointmentTime": "12:42 AM",
+      "doctorName": "Dr. Rao",
+      "department": "Cardiology",
+      "status": "Pending"
     },
     {
-      "patientName": "Isabella Taylor",
-      "id": 24682,
-      "gender": "Female",
-      "age": 78,
-      "contact": "555-999-0000",
-      "appointmentStatus": "Completed",
-      "roomNumber": "315D"
+      "patientName": "Aryan",
+      "appointmentTime": "11:46 PM",
+      "doctorName": "Dr. Iyer",
+      "department": "Orthopedics",
+      "status": "Confirmed"
     },
     {
-      "patientName": "Jackson Thomas",
-      "id": 13577,
-      "gender": "Male",
-      "age": 31,
-      "contact": "555-246-8135",
-      "appointmentStatus": "Scheduled",
-      "roomNumber": "180A"
+      "patientName": "Kabir",
+      "appointmentTime": "10:47 PM",
+      "doctorName": "Dr. Desai",
+      "department": "Dermatology",
+      "status": "Confirmed"
     },
     {
-      "patientName": "Mia Moore",
-      "id": 97533,
-      "gender": "Female",
-      "age": 47,
-      "contact": "555-135-7924",
-      "appointmentStatus": "Completed",
-      "roomNumber": "245C"
+      "patientName": "Meera",
+      "appointmentTime": "04:14 AM",
+      "doctorName": "Dr. Singh",
+      "department": "Orthopedics",
+      "status": "Confirmed"
     },
     {
-      "patientName": "Lucas Jackson",
-      "id": 86422,
-      "gender": "Male",
-      "age": 55,
-      "contact": "555-864-2097",
-      "appointmentStatus": "Scheduled",
-      "roomNumber": "120B"
+      "patientName": "Raj",
+      "appointmentTime": "06:38 AM",
+      "doctorName": "Dr. Sharma",
+      "department": "Orthopedics",
+      "status": "Confirmed"
     },
     {
-      "patientName": "Charlotte Lopez",
-      "id": 15936,
-      "gender": "Female",
-      "age": 33,
-      "contact": "555-159-3674",
-      "appointmentStatus": "Completed",
-      "roomNumber": "290A"
+      "patientName": "Vivaan",
+      "appointmentTime": "10:40 PM",
+      "doctorName": "Dr. Singh",
+      "department": "Orthopedics",
+      "status": "Cancelled"
     },
     {
-      "patientName": "Benjamin Lewis",
-      "id": 75319,
-      "gender": "Male",
-      "age": 29,
-      "contact": "555-753-1928",
-      "appointmentStatus": "Scheduled",
-      "roomNumber": "175C"
+      "patientName": "Ishita",
+      "appointmentTime": "03:15 AM",
+      "doctorName": "Dr. Sharma",
+      "department": "Neurology",
+      "status": "Cancelled"
     },
     {
-      "patientName": "Amelia Harris",
-      "id": 95175,
-      "gender": "Female",
-      "age": 71,
-      "contact": "555-951-7531",
-      "appointmentStatus": "Cancelled",
-      "roomNumber": "N/A"
+      "patientName": "Ishita",
+      "appointmentTime": "01:21 AM",
+      "doctorName": "Dr. Rao",
+      "department": "Dermatology",
+      "status": "Cancelled"
     },
     {
-      "patientName": "Oliver Scott",
-      "id": 35724,
-      "gender": "Male",
-      "age": 46,
-      "contact": "555-357-2468",
-      "appointmentStatus": "Scheduled",
-      "roomNumber": "340B"
+      "patientName": "Aditya",
+      "appointmentTime": "01:26 AM",
+      "doctorName": "Dr. Singh",
+      "department": "Dermatology",
+      "status": "Pending"
     },
     {
-      "patientName": "Emma Thompson",
-      "id": 68241,
-      "gender": "Female",
-      "age": 54,
-      "contact": "555-682-4135",
-      "appointmentStatus": "Completed",
-      "roomNumber": "225D"
+      "patientName": "Aarav",
+      "appointmentTime": "02:52 AM",
+      "doctorName": "Dr. Mehta",
+      "department": "Oncology",
+      "status": "Cancelled"
+    },
+    {
+      "patientName": "Kavya",
+      "appointmentTime": "02:35 AM",
+      "doctorName": "Dr. Mehta",
+      "department": "Pediatrics",
+      "status": "Cancelled"
+    },
+    {
+      "patientName": "Anaya",
+      "appointmentTime": "10:55 PM",
+      "doctorName": "Dr. Mehta",
+      "department": "Oncology",
+      "status": "Pending"
+    },
+    {
+      "patientName": "Kabir",
+      "appointmentTime": "05:13 AM",
+      "doctorName": "Dr. Mehta",
+      "department": "Pediatrics",
+      "status": "Pending"
+    },
+    {
+      "patientName": "Anaya",
+      "appointmentTime": "05:16 AM",
+      "doctorName": "Dr. Mehta",
+      "department": "Oncology",
+      "status": "Confirmed"
+    },
+    {
+      "patientName": "Kabir",
+      "appointmentTime": "12:18 AM",
+      "doctorName": "Dr. Iyer",
+      "department": "Dermatology",
+      "status": "Confirmed"
+    },
+    {
+      "patientName": "Anaya",
+      "appointmentTime": "09:03 PM",
+      "doctorName": "Dr. Mehta",
+      "department": "Neurology",
+      "status": "Pending"
+    },
+    {
+      "patientName": "Diya",
+      "appointmentTime": "09:25 PM",
+      "doctorName": "Dr. Iyer",
+      "department": "Oncology",
+      "status": "Confirmed"
+    },
+    {
+      "patientName": "Sneha",
+      "appointmentTime": "05:41 AM",
+      "doctorName": "Dr. Iyer",
+      "department": "Dermatology",
+      "status": "Pending"
+    },
+    {
+      "patientName": "Nikita",
+      "appointmentTime": "02:38 AM",
+      "doctorName": "Dr. Mehta",
+      "department": "Orthopedics",
+      "status": "Cancelled"
+    },
+    {
+      "patientName": "Aditya",
+      "appointmentTime": "11:27 PM",
+      "doctorName": "Dr. Mehta",
+      "department": "Dermatology",
+      "status": "Pending"
     }
   ],
-  "patients": [
+  "weeklyAppointmentsTrend": [
     {
-      "patientName": "Sophia Clark",
-      "id": 12345,
+      "date": "2025-07-14",
+      "appointments": 51
+    },
+    {
+      "date": "2025-07-15",
+      "appointments": 59
+    },
+    {
+      "date": "2025-07-16",
+      "appointments": 39
+    },
+    {
+      "date": "2025-07-17",
+      "appointments": 44
+    },
+    {
+      "date": "2025-07-18",
+      "appointments": 38
+    },
+    {
+      "date": "2025-07-19",
+      "appointments": 42
+    },
+    {
+      "date": "2025-07-20",
+      "appointments": 53
+    }
+  ],
+  "departmentWisePatientDistribution": [
+    {
+      "department": "Cardiology",
+      "patients": 272
+    },
+    {
+      "department": "Neurology",
+      "patients": 197
+    },
+    {
+      "department": "Pediatrics",
+      "patients": 137
+    },
+    {
+      "department": "Orthopedics",
+      "patients": 162
+    },
+    {
+      "department": "Oncology",
+      "patients": 147
+    },
+    {
+      "department": "Dermatology",
+      "patients": 168
+    }
+  ],
+  "patients":[
+    {
+      "id": 1,
+      "patientName": "Rohan",
+      "age": 24,
       "gender": "Female",
-      "age": 35,
-      "contact": "555-123-4567",
+      "contact": "+91 98765-43210",
+      "admissionDate": "2025-07-16",
+      "roomNumber": "199-A",
       "appointmentStatus": "Scheduled"
     },
     {
-      "patientName": "Ethan Miller",
-      "id": 67890,
-      "gender": "Male",
-      "age": 42,
-      "contact": "555-987-6543",
+      "id": 2,
+      "patientName": "Anaya",
+      "age": 27,
+      "gender": "Female",
+      "contact": "+91 98765-43211",
+      "admissionDate": "2025-07-18",
+      "roomNumber": "118-B",
       "appointmentStatus": "Completed"
     },
     {
-      "patientName": "Olivia Davis",
-      "id": 24680,
-      "gender": "Female",
+      "id": 3,
+      "patientName": "Anaya",
+      "age": 69,
+      "gender": "Male",
+      "contact": "+91 98765-43212",
+      "admissionDate": "2025-07-19",
+      "roomNumber": "363-B",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "id": 4,
+      "patientName": "Rohan",
       "age": 28,
-      "contact": "555-111-2222",
+      "gender": "Male",
+      "contact": "+91 98765-43213",
+      "admissionDate": "2025-07-17",
+      "roomNumber": "426-A",
       "appointmentStatus": "Cancelled"
     },
     {
-      "patientName": "Liam Wilson",
-      "id": 13579,
+      "id": 5,
+      "patientName": "Aryan",
+      "age": 49,
       "gender": "Male",
-      "age": 50,
-      "contact": "555-333-4444",
+      "contact": "+91 98765-43214",
+      "admissionDate": "2025-07-20",
+      "roomNumber": "243-C",
       "appointmentStatus": "Scheduled"
     },
     {
-      "patientName": "Ava Martinez",
-      "id": 97531,
-      "gender": "Female",
-      "age": 62,
-      "contact": "555-555-6666",
-      "appointmentStatus": "Completed"
-    },
-    {
-      "patientName": "Noah Anderson",
-      "id": 86420,
-      "gender": "Male",
-      "age": 19,
-      "contact": "555-777-8888",
-      "appointmentStatus": "Scheduled"
-    },
-    {
-      "patientName": "Isabella Taylor",
-      "id": 24682,
-      "gender": "Female",
-      "age": 78,
-      "contact": "555-999-0000",
-      "appointmentStatus": "Completed"
-    },
-    {
-      "patientName": "Jackson Thomas",
-      "id": 13577,
-      "gender": "Male",
-      "age": 31,
-      "contact": "555-246-8135",
-      "appointmentStatus": "Scheduled"
-    },
-    {
-      "patientName": "Mia Moore",
-      "id": 97533,
-      "gender": "Female",
-      "age": 47,
-      "contact": "555-135-7924",
-      "appointmentStatus": "Completed"
-    },
-    {
-      "patientName": "Lucas Jackson",
-      "id": 86422,
-      "gender": "Male",
-      "age": 55,
-      "contact": "555-864-2097",
-      "appointmentStatus": "Scheduled"
-    },
-    {
-      "patientName": "Charlotte Lopez",
-      "id": 15936,
-      "gender": "Female",
-      "age": 33,
-      "contact": "555-159-3674",
-      "appointmentStatus": "Completed"
-    },
-    {
-      "patientName": "Benjamin Lewis",
-      "id": 75319,
-      "gender": "Male",
-      "age": 29,
-      "contact": "555-753-1928",
-      "appointmentStatus": "Scheduled"
-    },
-    {
-      "patientName": "Amelia Harris",
-      "id": 95175,
-      "gender": "Female",
-      "age": 71,
-      "contact": "555-951-7531",
-      "appointmentStatus": "Cancelled"
-    },
-    {
-      "patientName": "Oliver Scott",
-      "id": 35724,
-      "gender": "Male",
-      "age": 46,
-      "contact": "555-357-2468",
-      "appointmentStatus": "Scheduled"
-    },
-    {
-      "patientName": "Emma Thompson",
-      "id": 68241,
-      "gender": "Female",
-      "age": 54,
-      "contact": "555-682-4135",
-      "appointmentStatus": "Completed"
-    }
-  ],
-  "admissions": [
-    {
-      "patientName": "Asha Menon",
+      "id": 6,
+      "patientName": "Siddharth",
       "age": 67,
       "gender": "Female",
-      "admissionDate": "2025-07-17",
-      "roomNo": "B204"
-    },
-    {
-      "patientName": "Rajeev Kumar",
-      "age": 52,
-      "gender": "Male",
-      "admissionDate": "2025-07-16",
-      "roomNo": "C102"
-    },
-    {
-      "patientName": "Priya Desai",
-      "age": 34,
-      "gender": "Female",
+      "contact": "+91 98765-43215",
       "admissionDate": "2025-07-15",
-      "roomNo": "A301"
+      "roomNumber": "473-C",
+      "appointmentStatus": "Completed"
     },
     {
-      "patientName": "Sunil Gupta",
-      "age": 40,
-      "gender": "Male",
-      "admissionDate": "2025-07-13",
-      "roomNo": "D110"
-    },
-    {
-      "patientName": "Kavita Joshi",
-      "age": 29,
+      "id": 7,
+      "patientName": "Aditya",
+      "age": 37,
       "gender": "Female",
-      "admissionDate": "2025-07-10",
-      "roomNo": "A105"
+      "contact": "+91 98765-43216",
+      "admissionDate": "2025-07-17",
+      "roomNumber": "182-A",
+      "appointmentStatus": "Scheduled"
     },
     {
-      "patientName": "Vikram Sharma",
-      "age": 58,
-      "gender": "Male",
-      "admissionDate": "2025-07-18",
-      "roomNo": "B307"
-    },
-    {
-      "patientName": "Deepika Patel",
-      "age": 45,
-      "gender": "Female",
-      "admissionDate": "2025-07-14",
-      "roomNo": "C205"
-    },
-    {
-      "patientName": "Arjun Singh",
-      "age": 36,
-      "gender": "Male",
-      "admissionDate": "2025-07-19",
-      "roomNo": "A208"
-    },
-    {
-      "patientName": "Nisha Reddy",
-      "age": 41,
-      "gender": "Female",
-      "admissionDate": "2025-07-12",
-      "roomNo": "D115"
-    },
-    {
-      "patientName": "Rohit Agarwal",
-      "age": 33,
-      "gender": "Male",
-      "admissionDate": "2025-07-11",
-      "roomNo": "B101"
-    },
-    {
-      "patientName": "Anita Chopra",
-      "age": 59,
-      "gender": "Female",
-      "admissionDate": "2025-07-09",
-      "roomNo": "C308"
-    },
-    {
-      "patientName": "Manoj Verma",
+      "id": 8,
+      "patientName": "Kavya",
       "age": 48,
       "gender": "Male",
-      "admissionDate": "2025-07-08",
-      "roomNo": "A412"
+      "contact": "+91 98765-43217",
+      "admissionDate": "2025-07-16",
+      "roomNumber": "212-A",
+      "appointmentStatus": "Cancelled"
     },
     {
-      "patientName": "Sunita Malhotra",
+      "id": 9,
+      "patientName": "Aditya",
+      "age": 61,
+      "gender": "Male",
+      "contact": "+91 98765-43218",
+      "admissionDate": "2025-07-17",
+      "roomNumber": "493-B",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "id": 10,
+      "patientName": "Aarav",
+      "age": 47,
+      "gender": "Male",
+      "contact": "+91 98765-43219",
+      "admissionDate": "2025-07-18",
+      "roomNumber": "391-C",
+      "appointmentStatus": "Completed"
+    },
+    {
+      "id": 11,
+      "patientName": "Ishita",
+      "age": 74,
+      "gender": "Female",
+      "contact": "+91 98765-43220",
+      "admissionDate": "2025-07-16",
+      "roomNumber": "471-C",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "id": 12,
+      "patientName": "Aryan",
       "age": 63,
       "gender": "Female",
-      "admissionDate": "2025-07-20",
-      "roomNo": "D203"
+      "contact": "+91 98765-43221",
+      "admissionDate": "2025-07-19",
+      "roomNumber": "160-B",
+      "appointmentStatus": "Cancelled"
     },
     {
-      "patientName": "Kiran Bhatt",
-      "age": 37,
+      "id": 13,
+      "patientName": "Aarav",
+      "age": 49,
       "gender": "Male",
-      "admissionDate": "2025-07-07",
-      "roomNo": "B405"
+      "contact": "+91 98765-43222",
+      "admissionDate": "2025-07-19",
+      "roomNumber": "403-A",
+      "appointmentStatus": "Scheduled"
     },
     {
-      "patientName": "Rekha Saxena",
-      "age": 51,
-      "gender": "Female",
-      "admissionDate": "2025-07-06",
-      "roomNo": "C109"
+      "id": 14,
+      "patientName": "Sneha",
+      "age": 26,
+      "gender": "Male",
+      "contact": "+91 98765-43223",
+      "admissionDate": "2025-07-17",
+      "roomNumber": "230-C",
+      "appointmentStatus": "Completed"
+    },
+    {
+      "id": 15,
+      "patientName": "Aryan",
+      "age": 21,
+      "gender": "Male",
+      "contact": "+91 98765-43224",
+      "admissionDate": "2025-07-17",
+      "roomNumber": "279-B",
+      "appointmentStatus": "Scheduled"
     }
-  ],
-  "charts": {
-    "weeklyAppointments": [
-      {
-        "day": "Mon",
-        "appointments": 85
-      },
-      {
-        "day": "Tue",
-        "appointments": 102
-      },
-      {
-        "day": "Wed",
-        "appointments": 94
-      },
-      {
-        "day": "Thu",
-        "appointments": 118
-      },
-      {
-        "day": "Fri",
-        "appointments": 112
-      },
-      {
-        "day": "Sat",
-        "appointments": 87
-      },
-      {
-        "day": "Sun",
-        "appointments": 62
-      }
-    ],
-    "departmentDistribution": [
-      {
-        "department": "Cardiology",
-        "patients": 520
-      },
-      {
-        "department": "Neurology",
-        "patients": 410
-      },
-      {
-        "department": "Orthopedics",
-        "patients": 380
-      },
-      {
-        "department": "Pediatrics",
-        "patients": 340
-      },
-      {
-        "department": "Dermatology",
-        "patients": 290
-      },
-      {
-        "department": "General Surgery",
-        "patients": 250
-      },
-      {
-        "department": "ENT",
-        "patients": 180
-      },
-      {
-        "department": "Urology",
-        "patients": 160
-      },
-      {
-        "department": "Gynecology",
-        "patients": 200
-      },
-      {
-        "department": "Psychiatry",
-        "patients": 140
-      },
-      {
-        "department": "Ophthalmology",
-        "patients": 220
-      },
-      {
-        "department": "Gastroenterology",
-        "patients": 170
-      }
-    ]
-  }
+  ]
 }
