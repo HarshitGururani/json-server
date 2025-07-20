@@ -5,111 +5,141 @@
     "bedsOccupied": 285,
     "doctorsOnDuty": 48
   },
-  "appointments": [
+ "patients": [
     {
-      "patientName": "Emily Carter",
-      "appointmentTime": "9:00 AM",
-      "doctorName": "Dr. Owen Bennett",
-      "department": "Cardiology",
-      "status": "Scheduled"
+      "patientName": "Sophia Clark",
+      "id": 12345,
+      "gender": "Female",
+      "age": 35,
+      "contact": "555-123-4567",
+      "appointmentStatus": "Scheduled",
+      "roomNumber": "101A"
     },
     {
-      "patientName": "Noah Foster",
-      "appointmentTime": "10:30 AM",
-      "doctorName": "Dr. Sophia Hayes",
-      "department": "Neurology",
-      "status": "Completed"
+      "patientName": "Ethan Miller",
+      "id": 67890,
+      "gender": "Male",
+      "age": 42,
+      "contact": "555-987-6543",
+      "appointmentStatus": "Completed",
+      "roomNumber": "205B"
     },
     {
-      "patientName": "Olivia Reed",
-      "appointmentTime": "11:45 AM",
-      "doctorName": "Dr. Lucas Walker",
-      "department": "Orthopedics",
-      "status": "Scheduled"
+      "patientName": "Olivia Davis",
+      "id": 24680,
+      "gender": "Female",
+      "age": 28,
+      "contact": "555-111-2222",
+      "appointmentStatus": "Cancelled",
+      "roomNumber": "N/A"
     },
     {
-      "patientName": "Ava Hughes",
-      "appointmentTime": "1:15 PM",
-      "doctorName": "Dr. Mia Parker",
-      "department": "Dermatology",
-      "status": "Completed"
+      "patientName": "Liam Wilson",
+      "id": 13579,
+      "gender": "Male",
+      "age": 50,
+      "contact": "555-333-4444",
+      "appointmentStatus": "Scheduled",
+      "roomNumber": "302C"
     },
     {
-      "patientName": "Caleb Clark",
-      "appointmentTime": "2:30 PM",
-      "doctorName": "Dr. Isabella Morgan",
-      "department": "Pediatrics",
-      "status": "Scheduled"
+      "patientName": "Ava Martinez",
+      "id": 97531,
+      "gender": "Female",
+      "age": 62,
+      "contact": "555-555-6666",
+      "appointmentStatus": "Completed",
+      "roomNumber": "150A"
     },
     {
-      "patientName": "Mason Rodriguez",
-      "appointmentTime": "8:30 AM",
-      "doctorName": "Dr. James Peterson",
-      "department": "General Surgery",
-      "status": "Completed"
+      "patientName": "Noah Anderson",
+      "id": 86420,
+      "gender": "Male",
+      "age": 19,
+      "contact": "555-777-8888",
+      "appointmentStatus": "Scheduled",
+      "roomNumber": "220B"
     },
     {
-      "patientName": "Luna Thompson",
-      "appointmentTime": "12:00 PM",
-      "doctorName": "Dr. Emma Williams",
-      "department": "ENT",
-      "status": "Scheduled"
+      "patientName": "Isabella Taylor",
+      "id": 24682,
+      "gender": "Female",
+      "age": 78,
+      "contact": "555-999-0000",
+      "appointmentStatus": "Completed",
+      "roomNumber": "315D"
     },
     {
-      "patientName": "Elijah Brown",
-      "appointmentTime": "3:45 PM",
-      "doctorName": "Dr. Alexander Davis",
-      "department": "Urology",
-      "status": "Cancelled"
+      "patientName": "Jackson Thomas",
+      "id": 13577,
+      "gender": "Male",
+      "age": 31,
+      "contact": "555-246-8135",
+      "appointmentStatus": "Scheduled",
+      "roomNumber": "180A"
     },
     {
-      "patientName": "Harper Johnson",
-      "appointmentTime": "9:15 AM",
-      "doctorName": "Dr. Sarah Mitchell",
-      "department": "Gynecology",
-      "status": "Scheduled"
+      "patientName": "Mia Moore",
+      "id": 97533,
+      "gender": "Female",
+      "age": 47,
+      "contact": "555-135-7924",
+      "appointmentStatus": "Completed",
+      "roomNumber": "245C"
     },
     {
-      "patientName": "Henry Martinez",
-      "appointmentTime": "4:30 PM",
-      "doctorName": "Dr. Michael Chen",
-      "department": "Psychiatry",
-      "status": "Completed"
+      "patientName": "Lucas Jackson",
+      "id": 86422,
+      "gender": "Male",
+      "age": 55,
+      "contact": "555-864-2097",
+      "appointmentStatus": "Scheduled",
+      "roomNumber": "120B"
     },
     {
-      "patientName": "Aria Wilson",
-      "appointmentTime": "11:00 AM",
-      "doctorName": "Dr. Rachel Green",
-      "department": "Ophthalmology",
-      "status": "Scheduled"
+      "patientName": "Charlotte Lopez",
+      "id": 15936,
+      "gender": "Female",
+      "age": 33,
+      "contact": "555-159-3674",
+      "appointmentStatus": "Completed",
+      "roomNumber": "290A"
     },
     {
-      "patientName": "Logan Anderson",
-      "appointmentTime": "2:00 PM",
-      "doctorName": "Dr. Kevin Murphy",
-      "department": "Gastroenterology",
-      "status": "Completed"
+      "patientName": "Benjamin Lewis",
+      "id": 75319,
+      "gender": "Male",
+      "age": 29,
+      "contact": "555-753-1928",
+      "appointmentStatus": "Scheduled",
+      "roomNumber": "175C"
     },
     {
-      "patientName": "Grace Taylor",
-      "appointmentTime": "10:00 AM",
-      "doctorName": "Dr. Lisa Rodriguez",
-      "department": "Endocrinology",
-      "status": "Scheduled"
+      "patientName": "Amelia Harris",
+      "id": 95175,
+      "gender": "Female",
+      "age": 71,
+      "contact": "555-951-7531",
+      "appointmentStatus": "Cancelled",
+      "roomNumber": "N/A"
     },
     {
-      "patientName": "Sebastian White",
-      "appointmentTime": "1:45 PM",
-      "doctorName": "Dr. David Kim",
-      "department": "Pulmonology",
-      "status": "Completed"
+      "patientName": "Oliver Scott",
+      "id": 35724,
+      "gender": "Male",
+      "age": 46,
+      "contact": "555-357-2468",
+      "appointmentStatus": "Scheduled",
+      "roomNumber": "340B"
     },
     {
-      "patientName": "Zoe Garcia",
-      "appointmentTime": "5:15 PM",
-      "doctorName": "Dr. Jennifer Adams",
-      "department": "Rheumatology",
-      "status": "Scheduled"
+      "patientName": "Emma Thompson",
+      "id": 68241,
+      "gender": "Female",
+      "age": 54,
+      "contact": "555-682-4135",
+      "appointmentStatus": "Completed",
+      "roomNumber": "225D"
     }
   ],
   "patients": [
