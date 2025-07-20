@@ -184,34 +184,13 @@
   ],
   "charts": {
     "weeklyAppointmentsTrend": [
-      {
-        "date": "2025-07-14",
-        "appointments": 51
-      },
-      {
-        "date": "2025-07-15",
-        "appointments": 59
-      },
-      {
-        "date": "2025-07-16",
-        "appointments": 39
-      },
-      {
-        "date": "2025-07-17",
-        "appointments": 44
-      },
-      {
-        "date": "2025-07-18",
-        "appointments": 38
-      },
-      {
-        "date": "2025-07-19",
-        "appointments": 42
-      },
-      {
-        "date": "2025-07-20",
-        "appointments": 53
-      }
+     { "day": "Mon", "appointments": 85 },
+      { "day": "Tue", "appointments": 102 },
+      { "day": "Wed", "appointments": 94 },
+      { "day": "Thu", "appointments": 118 },
+      { "day": "Fri", "appointments": 112 },
+      { "day": "Sat", "appointments": 87 },
+      { "day": "Sun", "appointments": 62 }
     ],
     "departmentWisePatientDistribution": [
       {
