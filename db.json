@@ -182,62 +182,64 @@
       "status": "Pending"
     }
   ],
-  "weeklyAppointmentsTrend": [
-    {
-      "date": "2025-07-14",
-      "appointments": 51
-    },
-    {
-      "date": "2025-07-15",
-      "appointments": 59
-    },
-    {
-      "date": "2025-07-16",
-      "appointments": 39
-    },
-    {
-      "date": "2025-07-17",
-      "appointments": 44
-    },
-    {
-      "date": "2025-07-18",
-      "appointments": 38
-    },
-    {
-      "date": "2025-07-19",
-      "appointments": 42
-    },
-    {
-      "date": "2025-07-20",
-      "appointments": 53
-    }
-  ],
-  "departmentWisePatientDistribution": [
-    {
-      "department": "Cardiology",
-      "patients": 272
-    },
-    {
-      "department": "Neurology",
-      "patients": 197
-    },
-    {
-      "department": "Pediatrics",
-      "patients": 137
-    },
-    {
-      "department": "Orthopedics",
-      "patients": 162
-    },
-    {
-      "department": "Oncology",
-      "patients": 147
-    },
-    {
-      "department": "Dermatology",
-      "patients": 168
-    }
-  ],
+  "charts": {
+    "weeklyAppointmentsTrend": [
+      {
+        "date": "2025-07-14",
+        "appointments": 51
+      },
+      {
+        "date": "2025-07-15",
+        "appointments": 59
+      },
+      {
+        "date": "2025-07-16",
+        "appointments": 39
+      },
+      {
+        "date": "2025-07-17",
+        "appointments": 44
+      },
+      {
+        "date": "2025-07-18",
+        "appointments": 38
+      },
+      {
+        "date": "2025-07-19",
+        "appointments": 42
+      },
+      {
+        "date": "2025-07-20",
+        "appointments": 53
+      }
+    ],
+    "departmentWisePatientDistribution": [
+      {
+        "department": "Cardiology",
+        "patients": 272
+      },
+      {
+        "department": "Neurology",
+        "patients": 197
+      },
+      {
+        "department": "Pediatrics",
+        "patients": 137
+      },
+      {
+        "department": "Orthopedics",
+        "patients": 162
+      },
+      {
+        "department": "Oncology",
+        "patients": 147
+      },
+      {
+        "department": "Dermatology",
+        "patients": 168
+      }
+    ]
+  },
   "patients":[
     {
       "id": 1,
