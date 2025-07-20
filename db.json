@@ -1,220 +1,438 @@
 {
-  "photographers": [
+  "metrics": {
+    "totalPatients": 3500,
+    "appointmentsToday": 126,
+    "bedsOccupied": 285,
+    "doctorsOnDuty": 48
+  },
+  "appointments": [
     {
-      "id": 1,
-      "name": "Ravi Studio",
-      "location": "Bengaluru",
-      "price": 10000,
-      "rating": 4.6,
-      "styles": ["Outdoor", "Studio"],
-      "tags": ["Candid", "Maternity"],
-      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
-      "profilePic": "/images/profile1.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Ananya",
-          "rating": 5,
-          "comment": "Truly amazing photos and experience!",
-          "date": "2024-12-15"
-        }
-      ]
+      "patientName": "Emily Carter",
+      "appointmentTime": "9:00 AM",
+      "doctorName": "Dr. Owen Bennett",
+      "department": "Cardiology",
+      "status": "Scheduled"
     },
     {
-      "id": 2,
-      "name": "Lens Queen Photography",
-      "location": "Delhi",
-      "price": 15000,
-      "rating": 4.2,
-      "styles": ["Candid", "Indoor"],
-      "tags": ["Newborn", "Birthday"],
-      "bio": "Delhi-based candid specialist for kids and birthday parties.",
-      "profilePic": "/images/profile2.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Priya",
-          "rating": 4,
-          "comment": "Very professional and punctual!",
-          "date": "2024-10-01"
-        }
-      ]
+      "patientName": "Noah Foster",
+      "appointmentTime": "10:30 AM",
+      "doctorName": "Dr. Sophia Hayes",
+      "department": "Neurology",
+      "status": "Completed"
     },
     {
-      "id": 3,
-      "name": "Click Factory",
-      "location": "Bengaluru",
-      "price": 8000,
-      "rating": 4.8,
-      "styles": ["Studio", "Outdoor", "Traditional"],
-      "tags": ["Wedding", "Pre-wedding"],
-      "bio": "Capturing timeless wedding stories across India.",
-      "profilePic": "/images/profile3.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Rahul",
-          "rating": 5,
-          "comment": "We loved every single moment they captured.",
-          "date": "2025-01-22"
-        }
-      ]
+      "patientName": "Olivia Reed",
+      "appointmentTime": "11:45 AM",
+      "doctorName": "Dr. Lucas Walker",
+      "department": "Orthopedics",
+      "status": "Scheduled"
     },
     {
-      "id": 4,
-      "name": "Moments by Neha",
-      "location": "Bengaluru",
-      "price": 12000,
-      "rating": 4.3,
-      "styles": ["Outdoor", "Candid"],
-      "tags": ["Maternity", "Couple"],
-      "bio": "Natural light specialist focusing on emotional storytelling.",
-      "profilePic": "/images/profile1.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Sneha",
-          "rating": 4.5,
-          "comment": "Captured our maternity journey so beautifully.",
-          "date": "2024-11-05"
-        }
-      ]
+      "patientName": "Ava Hughes",
+      "appointmentTime": "1:15 PM",
+      "doctorName": "Dr. Mia Parker",
+      "department": "Dermatology",
+      "status": "Completed"
     },
     {
-      "id": 5,
-      "name": "Snapshot Studio",
-      "location": "Delhi",
-      "price": 7000,
-      "rating": 3.9,
-      "styles": ["Studio"],
-      "tags": ["Birthday", "Family"],
-      "bio": "Affordable indoor shoots with creative themes.",
-      "profilePic": "/images/profile5.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Vikram",
-          "rating": 3.5,
-          "comment": "Decent service, could improve on punctuality.",
-          "date": "2024-09-10"
-        }
-      ]
+      "patientName": "Caleb Clark",
+      "appointmentTime": "2:30 PM",
+      "doctorName": "Dr. Isabella Morgan",
+      "department": "Pediatrics",
+      "status": "Scheduled"
     },
     {
-      "id": 6,
-      "name": "Frame Magic",
-      "location": "Bengaluru",
-      "price": 11000,
-      "rating": 4.5,
-      "styles": ["Traditional", "Candid"],
-      "tags": ["Wedding", "Engagement"],
-      "bio": "Bringing vibrant South Indian weddings to life through the lens.",
-      "profilePic": "/images/profile3.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Kavya",
-          "rating": 5,
-          "comment": "Their work added magic to our big day!",
-          "date": "2025-03-14"
-        }
-      ]
+      "patientName": "Mason Rodriguez",
+      "appointmentTime": "8:30 AM",
+      "doctorName": "Dr. James Peterson",
+      "department": "General Surgery",
+      "status": "Completed"
     },
     {
-      "id": 7,
-      "name": "The Baby Lens",
-      "location": "Pune",
-      "price": 9500,
-      "rating": 4.7,
-      "styles": ["Indoor", "Candid"],
-      "tags": ["Newborn", "Maternity"],
-      "bio": "Soft and serene newborn captures with creative setups.",
-      "profilePic": "/images/profile1.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Meera",
-          "rating": 4.8,
-          "comment": "Absolutely loved the comfort and care they provided.",
-          "date": "2025-02-03"
-        }
-      ]
+      "patientName": "Luna Thompson",
+      "appointmentTime": "12:00 PM",
+      "doctorName": "Dr. Emma Williams",
+      "department": "ENT",
+      "status": "Scheduled"
     },
     {
-      "id": 8,
-      "name": "Urban Pixel",
-      "location": "Ahmedabad",
-      "price": 13000,
-      "rating": 4.4,
-      "styles": ["Outdoor", "Studio"],
-      "tags": ["Fashion", "Portfolio"],
-      "bio": "Modern fashion portfolios and editorial-style shoots.",
-      "profilePic": "/images/profile2.jpg",
-      "portfolio": [
-        "https://placehold.co/600x400?text=portfolio\nimage1",
-        "https://placehold.co/600x400?text=portfolio\nimage2",
-        "https://placehold.co/600x400?text=portfolio\nimage3",
-        "https://placehold.co/600x400?text=portfolio\nimage4",
-        "https://placehold.co/600x400?text=portfolio\nimage5",
-        "https://placehold.co/600x400?text=portfolio\nimage6"
-      ],
-      "reviews": [
-        {
-          "name": "Arjun",
-          "rating": 4.6,
-          "comment": "Very stylish and professional output.",
-          "date": "2025-06-18"
-        }
-      ]
+      "patientName": "Elijah Brown",
+      "appointmentTime": "3:45 PM",
+      "doctorName": "Dr. Alexander Davis",
+      "department": "Urology",
+      "status": "Cancelled"
+    },
+    {
+      "patientName": "Harper Johnson",
+      "appointmentTime": "9:15 AM",
+      "doctorName": "Dr. Sarah Mitchell",
+      "department": "Gynecology",
+      "status": "Scheduled"
+    },
+    {
+      "patientName": "Henry Martinez",
+      "appointmentTime": "4:30 PM",
+      "doctorName": "Dr. Michael Chen",
+      "department": "Psychiatry",
+      "status": "Completed"
+    },
+    {
+      "patientName": "Aria Wilson",
+      "appointmentTime": "11:00 AM",
+      "doctorName": "Dr. Rachel Green",
+      "department": "Ophthalmology",
+      "status": "Scheduled"
+    },
+    {
+      "patientName": "Logan Anderson",
+      "appointmentTime": "2:00 PM",
+      "doctorName": "Dr. Kevin Murphy",
+      "department": "Gastroenterology",
+      "status": "Completed"
+    },
+    {
+      "patientName": "Grace Taylor",
+      "appointmentTime": "10:00 AM",
+      "doctorName": "Dr. Lisa Rodriguez",
+      "department": "Endocrinology",
+      "status": "Scheduled"
+    },
+    {
+      "patientName": "Sebastian White",
+      "appointmentTime": "1:45 PM",
+      "doctorName": "Dr. David Kim",
+      "department": "Pulmonology",
+      "status": "Completed"
+    },
+    {
+      "patientName": "Zoe Garcia",
+      "appointmentTime": "5:15 PM",
+      "doctorName": "Dr. Jennifer Adams",
+      "department": "Rheumatology",
+      "status": "Scheduled"
     }
-  ]
+  ],
+  "patients": [
+    {
+      "patientName": "Sophia Clark",
+      "id": 12345,
+      "gender": "Female",
+      "age": 35,
+      "contact": "555-123-4567",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "patientName": "Ethan Miller",
+      "id": 67890,
+      "gender": "Male",
+      "age": 42,
+      "contact": "555-987-6543",
+      "appointmentStatus": "Completed"
+    },
+    {
+      "patientName": "Olivia Davis",
+      "id": 24680,
+      "gender": "Female",
+      "age": 28,
+      "contact": "555-111-2222",
+      "appointmentStatus": "Cancelled"
+    },
+    {
+      "patientName": "Liam Wilson",
+      "id": 13579,
+      "gender": "Male",
+      "age": 50,
+      "contact": "555-333-4444",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "patientName": "Ava Martinez",
+      "id": 97531,
+      "gender": "Female",
+      "age": 62,
+      "contact": "555-555-6666",
+      "appointmentStatus": "Completed"
+    },
+    {
+      "patientName": "Noah Anderson",
+      "id": 86420,
+      "gender": "Male",
+      "age": 19,
+      "contact": "555-777-8888",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "patientName": "Isabella Taylor",
+      "id": 24682,
+      "gender": "Female",
+      "age": 78,
+      "contact": "555-999-0000",
+      "appointmentStatus": "Completed"
+    },
+    {
+      "patientName": "Jackson Thomas",
+      "id": 13577,
+      "gender": "Male",
+      "age": 31,
+      "contact": "555-246-8135",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "patientName": "Mia Moore",
+      "id": 97533,
+      "gender": "Female",
+      "age": 47,
+      "contact": "555-135-7924",
+      "appointmentStatus": "Completed"
+    },
+    {
+      "patientName": "Lucas Jackson",
+      "id": 86422,
+      "gender": "Male",
+      "age": 55,
+      "contact": "555-864-2097",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "patientName": "Charlotte Lopez",
+      "id": 15936,
+      "gender": "Female",
+      "age": 33,
+      "contact": "555-159-3674",
+      "appointmentStatus": "Completed"
+    },
+    {
+      "patientName": "Benjamin Lewis",
+      "id": 75319,
+      "gender": "Male",
+      "age": 29,
+      "contact": "555-753-1928",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "patientName": "Amelia Harris",
+      "id": 95175,
+      "gender": "Female",
+      "age": 71,
+      "contact": "555-951-7531",
+      "appointmentStatus": "Cancelled"
+    },
+    {
+      "patientName": "Oliver Scott",
+      "id": 35724,
+      "gender": "Male",
+      "age": 46,
+      "contact": "555-357-2468",
+      "appointmentStatus": "Scheduled"
+    },
+    {
+      "patientName": "Emma Thompson",
+      "id": 68241,
+      "gender": "Female",
+      "age": 54,
+      "contact": "555-682-4135",
+      "appointmentStatus": "Completed"
+    }
+  ],
+  "admissions": [
+    {
+      "patientName": "Asha Menon",
+      "age": 67,
+      "gender": "Female",
+      "admissionDate": "2025-07-17",
+      "roomNo": "B204"
+    },
+    {
+      "patientName": "Rajeev Kumar",
+      "age": 52,
+      "gender": "Male",
+      "admissionDate": "2025-07-16",
+      "roomNo": "C102"
+    },
+    {
+      "patientName": "Priya Desai",
+      "age": 34,
+      "gender": "Female",
+      "admissionDate": "2025-07-15",
+      "roomNo": "A301"
+    },
+    {
+      "patientName": "Sunil Gupta",
+      "age": 40,
+      "gender": "Male",
+      "admissionDate": "2025-07-13",
+      "roomNo": "D110"
+    },
+    {
+      "patientName": "Kavita Joshi",
+      "age": 29,
+      "gender": "Female",
+      "admissionDate": "2025-07-10",
+      "roomNo": "A105"
+    },
+    {
+      "patientName": "Vikram Sharma",
+      "age": 58,
+      "gender": "Male",
+      "admissionDate": "2025-07-18",
+      "roomNo": "B307"
+    },
+    {
+      "patientName": "Deepika Patel",
+      "age": 45,
+      "gender": "Female",
+      "admissionDate": "2025-07-14",
+      "roomNo": "C205"
+    },
+    {
+      "patientName": "Arjun Singh",
+      "age": 36,
+      "gender": "Male",
+      "admissionDate": "2025-07-19",
+      "roomNo": "A208"
+    },
+    {
+      "patientName": "Nisha Reddy",
+      "age": 41,
+      "gender": "Female",
+      "admissionDate": "2025-07-12",
+      "roomNo": "D115"
+    },
+    {
+      "patientName": "Rohit Agarwal",
+      "age": 33,
+      "gender": "Male",
+      "admissionDate": "2025-07-11",
+      "roomNo": "B101"
+    },
+    {
+      "patientName": "Anita Chopra",
+      "age": 59,
+      "gender": "Female",
+      "admissionDate": "2025-07-09",
+      "roomNo": "C308"
+    },
+    {
+      "patientName": "Manoj Verma",
+      "age": 48,
+      "gender": "Male",
+      "admissionDate": "2025-07-08",
+      "roomNo": "A412"
+    },
+    {
+      "patientName": "Sunita Malhotra",
+      "age": 63,
+      "gender": "Female",
+      "admissionDate": "2025-07-20",
+      "roomNo": "D203"
+    },
+    {
+      "patientName": "Kiran Bhatt",
+      "age": 37,
+      "gender": "Male",
+      "admissionDate": "2025-07-07",
+      "roomNo": "B405"
+    },
+    {
+      "patientName": "Rekha Saxena",
+      "age": 51,
+      "gender": "Female",
+      "admissionDate": "2025-07-06",
+      "roomNo": "C109"
+    }
+  ],
+  "charts": {
+    "weeklyAppointments": [
+      {
+        "day": "Mon",
+        "appointments": 85
+      },
+      {
+        "day": "Tue",
+        "appointments": 102
+      },
+      {
+        "day": "Wed",
+        "appointments": 94
+      },
+      {
+        "day": "Thu",
+        "appointments": 118
+      },
+      {
+        "day": "Fri",
+        "appointments": 112
+      },
+      {
+        "day": "Sat",
+        "appointments": 87
+      },
+      {
+        "day": "Sun",
+        "appointments": 62
+      }
+    ],
+    "departmentDistribution": [
+      {
+        "department": "Cardiology",
+        "patients": 520
+      },
+      {
+        "department": "Neurology",
+        "patients": 410
+      },
+      {
+        "department": "Orthopedics",
+        "patients": 380
+      },
+      {
+        "department": "Pediatrics",
+        "patients": 340
+      },
+      {
+        "department": "Dermatology",
+        "patients": 290
+      },
+      {
+        "department": "General Surgery",
+        "patients": 250
+      },
+      {
+        "department": "ENT",
+        "patients": 180
+      },
+      {
+        "department": "Urology",
+        "patients": 160
+      },
+      {
+        "department": "Gynecology",
+        "patients": 200
+      },
+      {
+        "department": "Psychiatry",
+        "patients": 140
+      },
+      {
+        "department": "Ophthalmology",
+        "patients": 220
+      },
+      {
+        "department": "Gastroenterology",
+        "patients": 170
+      },
+      {
+        "department": "Endocrinology",
+        "patients": 120
+      },
+      {
+        "department": "Pulmonology",
+        "patients": 150
+      },
+      {
+        "department": "Rheumatology",
+        "patients": 90
+      }
+    ]
+  }
 }
