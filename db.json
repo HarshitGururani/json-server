@@ -421,18 +421,7 @@
         "department": "Gastroenterology",
         "patients": 170
       },
-      {
-        "department": "Endocrinology",
-        "patients": 120
-      },
-      {
-        "department": "Pulmonology",
-        "patients": 150
-      },
-      {
-        "department": "Rheumatology",
-        "patients": 90
-      }
+
     ]
   }
 }
